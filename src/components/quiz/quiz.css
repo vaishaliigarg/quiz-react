@@ -1,0 +1,56 @@
+.quiz-section {
+    background-color: white ;
+    color: #fff; 
+  }
+  
+  .quiz-card {
+    background-color: #F7418F;
+    border-color: #646464;
+  }
+  
+  .question-counter {
+    color: #86469C;
+    width: 100px;
+    text-align: right;
+  }
+  
+  .option {
+    background-color: white; 
+    border: none;
+    box-shadow: none;
+    transition: background-color 0.3s ease;
+  }
+  
+  .option:hover {
+    background-color: white;
+  }
+  
+  .option.bg-success {
+    background-color: #28a745 !important; /* Green background for correct answer */
+  }
+  
+  .option.bg-danger {
+    background-color: #dc3545 !important; /* Red background for wrong answer */
+  }
+  
+  .btn-primary {
+    background-color: #86469C; /* Blue background for primary button */
+    border: none;
+    box-shadow: none;
+    transition: background-color 0.3s ease;
+    
+  }
+  
+  .btn-primary:hover {
+    background-color: #86469C; /* Darker blue on hover */
+  }
+  
+  .btn-light {
+    background-color: #f8f9fa; /* Light background for light button */
+    color: white; /* Dark text for light button */
+  }
+  
+  .btn-light:hover {
+    background-color: #e2e6ea; /* Slightly darker on hover */
+  }
+  

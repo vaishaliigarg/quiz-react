@@ -1,0 +1,27 @@
+.result-section {
+    background-color: #F7418F; 
+    color: black; /* White text */
+  }
+  
+  .result-card {
+    background-color: #F7418F;
+    border-color: #646464;
+  }
+  
+  .btn-light {
+    background-color: #f8f9fa; /* Light background for light button */
+    color: #343a40; /* Dark text for light button */
+  }
+  
+  .btn-light:hover {
+    background-color: #e2e6ea; /* Slightly darker on hover */
+  }
+  
+  .bg-success {
+    background-color: #28a745 !important; /* Green background for success */
+  }
+  
+  .bg-danger {
+    background-color: #dc3545 !important; /* Red background for danger */
+  }
+  

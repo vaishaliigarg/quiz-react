@@ -1,7 +1,7 @@
 import React, { useContext } from 'react';
-import Start from './components/Start';
-import Quiz from './components/Quiz';
-import Result from './components/Result';
+import Start from './components/start/Start';
+import Quiz from './components/quiz/Quiz';
+import Result from './components/result/Result';
 import DataContext, { DataProvider } from './context/dataContext';
 
 const App = () => {
