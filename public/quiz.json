@@ -1,0 +1,112 @@
+[
+    {
+        "id": "01",
+        "question" : "What is the capital of France?",
+        "options": [
+            "Berlin",
+            "Madrid",
+            "Paris",
+            "Rome"
+        ],
+        "answer": "Paris"
+    },
+    {
+        "id": "02",
+        "question" : "Which planet is known as the Red Planet?",
+        "options": [
+            "Earth",
+            "Mars",
+            "Jupiter",
+            "Saturn"
+        ],
+        "answer": "Mars"
+    },
+    {
+        "id": "03",
+        "question" : "What is the largest ocean on Earth?",
+        "options": [
+            "Atlantic Ocean",
+            "Indian Ocean",
+            "Arctic Ocean",
+            "Pacific Ocean"
+        ],
+        "answer": "Pacific Ocean"
+    },
+    {
+        "id": "04",
+        "question" : "Which language is primarily spoken in Brazil?",
+        "options": [
+            "Spanish",
+            "Portuguese",
+            "French",
+            "English"
+        ],
+        "answer": "Portuguese"
+    },
+    {
+        "id": "05",
+        "question" : "Who wrote the play 'Romeo and Juliet'?",
+        "options": [
+            "Mark Twain",
+            "William Shakespeare",
+            "Charles Dickens",
+            "Jane Austen"
+        ],
+        "answer": "William Shakespeare"
+    },
+    {
+        "id": "06",
+        "question" : "What is the chemical symbol for water?",
+        "options": [
+            "O2",
+            "H2O",
+            "CO2",
+            "H2"
+        ],
+        "answer": "H2O"
+    },
+    {
+        "id": "07",
+        "question" : "How many continents are there on Earth?",
+        "options": [
+            "5",
+            "6",
+            "7",
+            "8"
+        ],
+        "answer": "7"
+    },
+    {
+        "id": "08",
+        "question" : "What is the hardest natural substance on Earth?",
+        "options": [
+            "Gold",
+            "Iron",
+            "Diamond",
+            "Platinum"
+        ],
+        "answer": "Diamond"
+    },
+    {
+        "id": "09",
+        "question" : "Who is known as the Father of Computers?",
+        "options": [
+            "Albert Einstein",
+            "Isaac Newton",
+            "Charles Babbage",
+            "Thomas Edison"
+        ],
+        "answer": "Charles Babbage"
+    },
+    {
+        "id": "10",
+        "question" : "Which element has the chemical symbol 'O'?",
+        "options": [
+            "Oxygen",
+            "Gold",
+            "Osmium",
+            "Oganesson"
+        ],
+        "answer": "Oxygen"
+    }
+]
